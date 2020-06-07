@@ -3,7 +3,7 @@
 	<h2>Bench</h2>
 </div>
 
-Bench is a command-line utility that helps you to install, update, and manage multiple sites for Frappe/ERPNext applications on [*nix systems](https://en.wikipedia.org/wiki/Unix-like) for development and production.
+Bench is a command-line utility that helps you to install, update, and manage multiple sites for ERP applications on [*nix systems](https://en.wikipedia.org/wiki/Unix-like) for development and production.
 
 ## Table of Contents
 
