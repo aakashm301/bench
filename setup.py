@@ -3,7 +3,8 @@ from bench import PROJECT_NAME, VERSION
 
 with open('requirements.txt') as f:
 	install_requires = f.read().strip().split('\n')
-
+//below setup will install system.
+//dont change the Project_name and version
 setup(
 	name=PROJECT_NAME,
 	description='Metadata driven, full-stack web framework',
